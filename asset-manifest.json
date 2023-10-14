@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prakhaarr/colorp/static/css/main.88202953.css",
+    "main.js": "/prakhaarr/colorp/static/js/main.e3e17401.js",
+    "static/js/787.9ce76a9b.chunk.js": "/prakhaarr/colorp/static/js/787.9ce76a9b.chunk.js",
+    "static/media/logo.svg": "/prakhaarr/colorp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/prakhaarr/colorp/index.html",
+    "main.88202953.css.map": "/prakhaarr/colorp/static/css/main.88202953.css.map",
+    "main.e3e17401.js.map": "/prakhaarr/colorp/static/js/main.e3e17401.js.map",
+    "787.9ce76a9b.chunk.js.map": "/prakhaarr/colorp/static/js/787.9ce76a9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88202953.css",
+    "static/js/main.e3e17401.js"
+  ]
+}
